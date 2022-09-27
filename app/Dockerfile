@@ -2,7 +2,7 @@ FROM golang:alpine3.16 AS builder
 
 WORKDIR /desafio-go
 
-COPY . .
+COPY .. .
 
 RUN go build index.go
 
