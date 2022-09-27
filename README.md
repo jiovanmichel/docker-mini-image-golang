@@ -1,5 +1,5 @@
 # docker-mini-image-golang
-_Imagem docker com menos de 2MB - "Hello World" em GoLang_ 
+_Mini image docker (< 2MB) - "Code.education Rocks!" em GoLang_ 
 
 [Image Docker Hub](https://hub.docker.com/repository/docker/jiovanmichel/codeeducation)
 
